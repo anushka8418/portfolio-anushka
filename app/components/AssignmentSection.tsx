@@ -55,6 +55,13 @@ const assignments = [
     videoId: '1isbsCP8veI',
     tags:  ['DATA SCIENCE'],
   },
+  {
+    id: 8,
+    title: 'Data Science end semester test solution',
+    // description: 'Documenting the process of building a modern portfolio with Framer Motion and Tailwind CSS.',
+    videoId: '2rXaoXqZ0fc',
+    tags:  ['DATA SCIENCE'],
+  },
   
 ];
 
